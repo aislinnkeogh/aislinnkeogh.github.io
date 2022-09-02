@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Aislinn Keogh
 description: PhD Student at the Centre for Language Evolution
+logo: /aislinn-keogh.jpg
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
