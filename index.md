@@ -1,4 +1,6 @@
-This is the webpage for the Honours/MSc course Online Experiments for Language Scientists, running in academic year 2022/2023. I will add links to materials (readings, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
+Insert fascinating bio here.
+
+<!-- This is the webpage for the Honours/MSc course Online Experiments for Language Scientists, running in academic year 2022/2023. I will add links to materials (readings, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
 
 ## Course summary
 
@@ -12,7 +14,7 @@ No prior experience in coding is assumed, but you have to be prepared to dive in
 
 The course is co-taught by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Alisdair Tullo](https://www.ed.ac.uk/profile/alisdair-tullo/). Kenny (that's me) is the main lecturer and the course organiser; Alisdair is the PPLS javascript/jsPsych guru and delivers the lab sessions with Kenny. Best way to get in touch with us is in one of the live sessions, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk) or [alisdair.tullo@ed.ac.uk](mailto:alisdair.tullo@ed.ac.uk).
 
-We'll also be supported in lab classes by three excellent tutors: Aislinn Keogh, Vilde Reksnes, and Maisy Hallam. 
+We'll also be supported in lab classes by three excellent tutors: Aislinn Keogh, Vilde Reksnes, and Maisy Hallam.
 
 ## Class times
 
@@ -24,13 +26,13 @@ Lectures and labs are both essential to doing well on the course - the assessmen
 
 **Information on lab class venue is currently TBC**
 
-Lectures take place *in person* on Monday mornings, 9am-9.50am, in room S1, [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209) - as far as I can work out, S indicates Second floor. Labs will take place in on Wednesday mornings, 9am-11am, in **room to be allocated**. 
+Lectures take place *in person* on Monday mornings, 9am-9.50am, in room S1, [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209) - as far as I can work out, S indicates Second floor. Labs will take place in on Wednesday mornings, 9am-11am, in **room to be allocated**.
 
-Hopefully you are all familiar with attending in-person classes in covid times, but just as a reminder: 
+Hopefully you are all familiar with attending in-person classes in covid times, but just as a reminder:
 - *Do not come to lectures if you are unwell or think you might be!* You can participate remotely (see below), so you won't miss out and you'll be protecting the rest of us. If I am isolating or unwell (but still well enough lecture) we'll do the lecture remotely; there are 5 staff members covering the labs so we should always have cover in the event that one of us is unwell.
 - We encourage you to wear a mask when attending lectures and labs, particularly in contexts where it won't impede communication (e.g. when you are sitting listening to a lecture or working solo in a lab class).
 
-If you are unable to attend in-person lectures or labs due to illness, please see the course page on Learn for instructions on how to participate remotely. Lectures will be streamed live and there is a channel for asking questions in real time. We will use Teams for remote lab attendees, and assign a tutor to monitor remote attenders. 
+If you are unable to attend in-person lectures or labs due to illness, please see the course page on Learn for instructions on how to participate remotely. Lectures will be streamed live and there is a channel for asking questions in real time. We will use Teams for remote lab attendees, and assign a tutor to monitor remote attenders.
 
 ## Assessment
 
@@ -108,4 +110,4 @@ We will provide some extra drop-in labs to give you an opportunity to get some h
 
 ## Re-use
 
-All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). -->
