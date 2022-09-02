@@ -1,0 +1,11 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: Aislinn Keogh
+description: PhD student at the Centre for Language Evolution
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
