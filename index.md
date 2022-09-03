@@ -1,4 +1,4 @@
-Insert fascinating bio here.
+This site is a work in progress. Please check back soon.
 
 <!-- This is the webpage for the Honours/MSc course Online Experiments for Language Scientists, running in academic year 2022/2023. I will add links to materials (readings, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
 
