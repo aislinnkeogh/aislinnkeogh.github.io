@@ -36,9 +36,6 @@ body {
 ol, ul {
 	list-style: none;
 }
-ul ul {
-	list_style-type: circle;
-}
 
 blockquote, q {
 	quotes: none;
@@ -2231,6 +2228,11 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+		}
+
+		ul ul {
+			list-style-type: circle;
+			font-size: 80%;
 		}
 
 		ul.alt {
