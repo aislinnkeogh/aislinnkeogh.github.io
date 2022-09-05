@@ -36,6 +36,9 @@ body {
 ol, ul {
 	list-style: none;
 }
+ul ul {
+	list_style-type: circle;
+}
 
 blockquote, q {
 	quotes: none;
