@@ -236,6 +236,19 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.notice {
+      background-color: #fff3cd;      /* soft yellow */
+      border-left: 4px solid #ffca2c; /* darker yellow accent */
+      padding: 1rem;
+      margin-bottom: 1rem;
+      /* font-family: sans-serif;
+      max-width: 800px; */
+    }
+
+	.notice p {
+		margin: 0; /* or margin-top: 0; */
+	}
+
 /* Row */
 
 	.row {
